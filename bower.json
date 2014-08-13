@@ -1,0 +1,12 @@
+{
+  "name": "jquery-share",
+  "version": "0.1",
+  "homepage": "https://github.com/loftylabs/jquery-share",
+  "authors": [
+    "Casey Kinsey <casey.kinsey@gmail.com>"
+  ],
+  "description": "JQuery Share tools",
+  "main": "['jquery.share.js', 'jquery.share.css']",
+  "license": "MIT",
+  "private": true
+}
